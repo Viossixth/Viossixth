@@ -40,6 +40,9 @@ Currently I am a Civil Engineering student with Unisa, but through curiosity I w
 
 ## Certifications & Goals
 
+<img width="160" height="160" alt="google-cybersecurity-professional-certificate-v2 (1)" src="https://github.com/user-attachments/assets/ad46e0e1-08d0-423b-9713-5f466d6385f4" />
+
+
 - AWS re/Start Program | AWS Cloud Practitioner (In Progress)
 - Google Cybersecurity Professional Certificate
 - Power Learn Project : Software Development & MERN Full Stack (Awaiting Certification)
