@@ -38,9 +38,8 @@ Currently I am a Civil Engineering student with Unisa, but through curiosity I w
 
 ## Certifications & Goals
 
-- AWS re/Start Program (In Progress)
+- AWS re/Start Program | AWS Cloud Practitioner (In Progress)
 - Power Learn Project : Software Development & MERN Full Stack (Awaiting Certification)
-- AWS Cloud Practitioner (In Progress)
 - Microsoft Azure Security Engineer Associate (In progress)
 
   **Future Plans**
