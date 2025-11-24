@@ -42,7 +42,8 @@ Currently I am a Civil Engineering student with Unisa, but through curiosity I w
 - Power Learn Project : Software Development & MERN Full Stack (Awaiting Certification)
 - Microsoft Azure Security Engineer Associate (In progress)
 
-  **Future Plans**
+**Future Plans**
+  
 - Cisco Ethical Hacker Certificate (Starting early 2026)
 - Cisco Junior Cybersecurity Analyst (Starting early 2026)
 
