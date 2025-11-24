@@ -50,9 +50,9 @@ Currently I am a Civil Engineering student with Unisa, but through curiosity I w
 ## Let's Connect
 I'm always open to learning, collaborating, and connecting with fellow tech enthusiasts and professionals.
 
-💼 LinkedIn: www.linkedin.com/in/chriswell-maluleke-4815b8302
-📧 Email: risimac@outlook.com
-🌐 Portfolio: https://viossixth.github.io/Personal-Portfolio/
+- 💼 LinkedIn: www.linkedin.com/in/chriswell-maluleke-4815b8302
+- 📧 Email: risimac@outlook.com
+- 🌐 Portfolio: https://viossixth.github.io/Personal-Portfolio/
 
 <!--
 **Viossixth/Viossixth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
