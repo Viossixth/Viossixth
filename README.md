@@ -13,6 +13,7 @@ Aspiring Cloud Professional focused implementing best practices across AWS envir
 
 Currently I am a Civil Engineering student with Unisa, but through curiosity I wanted to delve into tech. Engineering has shaped me to focus on the small details, to actively work as a collective and see the bigger picture when a problem arises. It's the communication, people skills and problem solving skills I want to bring over to my new path.
 
+<img width="120" height="120" alt="aws-re-start-graduate" src="https://github.com/user-attachments/assets/706699bb-b5b6-4b7c-9602-d191cb3c55d8" />
 <img width="120" height="120" alt="aws-cloud-quest-cloud-practitioner-training-badge" src="https://github.com/user-attachments/assets/525dfe1e-ad06-420d-99aa-b0e60b1c9329" />
 <img width="120" height="120" alt="aws-educate-introduction-to-cloud-101-training-badg (2)" src="https://github.com/user-attachments/assets/45f62570-32d9-4247-807a-2fae38c477e6" />
 
