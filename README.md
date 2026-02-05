@@ -1,17 +1,16 @@
 ## Hi there 👋
 
-My tech journey started young Grade 4, to be exact. Researching unique geological formations on MS Word, navigating the early internet, fascinated by how technology connected information. That curiosity never left. I've watched tech evolve from Blackberries to smartphones, from data dongles to fiber internet. Now I'm not just watching I'm building, securing, and learning how to architect the cloud infrastructure that powers tomorrow.
+My tech journey started young, in Grade 4 to be exact. Doing homework on MicroSoft Word, navigating the early internet, fascinated by how technology connected information. I've always been fascinated and curious about whats possible on the internet. I've watched tech evolve from Blackberries to smartphones, from data dongles to fiber internet. I hope to bring my curiosity and experience into the tech space.
 
 ## What I'm building towards
 
-I'm on a mission to enter the Cloud Security domain, combining infrastructure knowledge with security best practices to help organizations build resilient systems.
-Aspiring Cloud Professional focused implementing best practices across AWS environments. I believe technology isn't just about innovation,it's about securing that innovation. That's where I want to be. Dedicated. Hungry. Disciplined. I know dreams are a matter of time, and with patience and persistence, goals become reality.
+Aspiring Junior Cloud / Infrastructure Engineer with AWS re/Start certification and hands-on experience deploying and managing cloud infrastructure on AWS. Strong foundation in Linux, networking, and system reliability, with an engineering mindset from Civil Engineering training. Seeking an entry-level cloud or DevOps role to support scalable, reliable systems.
 
 ## AWS re/Start Journey
 
 **Background**
 
-Currently I am a Civil Engineering student with Unisa, but through curiosity I wanted to delve into tech. Engineering has shaped me to focus on the small details, to actively work as a collective and see the bigger picture when a problem arises. It's the communication, people skills and problem solving skills I want to bring over to my new path.
+Currently I am a Civil Engineering student with Unisa. Engineering has shaped me to focus on the small details, to actively work as a collective and see the bigger picture when a problem arises. It's the communication, people skills and problem solving skills that have been sharpened through my academic experience.
 
 <img width="120" height="120" alt="aws-cloud-quest-cloud-practitioner-training-badge" src="https://github.com/user-attachments/assets/525dfe1e-ad06-420d-99aa-b0e60b1c9329" />
 <img width="120" height="120" alt="aws-educate-introduction-to-cloud-101-training-badg (2)" src="https://github.com/user-attachments/assets/45f62570-32d9-4247-807a-2fae38c477e6" />
