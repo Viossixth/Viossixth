@@ -52,7 +52,8 @@ https://github.com/Viossixth/AWS-re-start/tree/main/Project
 
 **Future Plans**
   
-- AWS Solutions Architect
+- AWS Certified Solutions Architect - Associate
+- Microsoft Certified:Azure AI Fundamentals
 
 ## Let's Connect
 I'm always open to learning, collaborating, and connecting with fellow tech enthusiasts and professionals.
