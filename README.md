@@ -61,6 +61,7 @@ I'm always open to learning, collaborating, and connecting with fellow tech enth
 - 💼 LinkedIn: www.linkedin.com/in/chriswell-maluleke-4815b8302
 - 📧 Email: risimac@outlook.com
 - 🌐 Portfolio: https://viossixth.github.io/Personal-Portfolio/
+- 🌐 Portfolio: http://crmaluleke-personalwebsite.s3-website-us-east-1.amazonaws.com
 
 <!--
 **Viossixth/Viossixth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
