@@ -53,7 +53,11 @@ https://github.com/Viossixth/AWS-re-start/tree/main/Project
 **Future Plans**
   
 - AWS Certified Solutions Architect - Associate
-- Microsoft Certified: Azure AI Fundamentals
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Kubernetes Cloud Native Course, including :
+  LFS101 – Introduction to Linux
+  LFS158 – Introduction to Kubernetes
+  LFS250 – Kubernetes and Cloud Native Essentials (Required for KCNA)
 
 ## Let's Connect
 I'm always open to learning, collaborating, and connecting with fellow tech enthusiasts and professionals.
