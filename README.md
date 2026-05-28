@@ -48,17 +48,16 @@ https://github.com/Viossixth/AWS-re-start/tree/main/Project
 - Google Cybersecurity Professional Certificate
 - Power Learn Project : Software Development & MERN Full Stack Bootcamp
 - AWS re/Start Program | AWS Cloud Practitioner
-- Microsoft Azure Security Engineer Associate (In progress)
+- SANCS26 Certificate of Participation
+- LFS158 – Introduction to Kubernetes
+- LFS250 – Kubernetes and Cloud Native Essentials
 
 **Future Plans**
   
 - AWS Certified Solutions Architect - Associate
 - Microsoft Certified: Azure Fundamentals (AZ-900)
-  
-  Kubernetes Cloud Native Course, including :
-- LFS101 – Introduction to Linux
-- LFS158 – Introduction to Kubernetes
-- LFS250 – Kubernetes and Cloud Native Essentials (Required for KCNA)
+- Kubernetes and Cloud Native
+
 
 ## Let's Connect
 I'm always open to learning, collaborating, and connecting with fellow tech enthusiasts and professionals.
