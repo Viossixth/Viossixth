@@ -44,6 +44,8 @@ https://github.com/Viossixth/AWS-re-start/tree/main/Project
 <img width="160" height="160" alt="google-cybersecurity-professional-certificate-v2 (1)" src="https://github.com/user-attachments/assets/ad46e0e1-08d0-423b-9713-5f466d6385f4" />
 <img width="120" height="120" alt="aws-re-start-graduate" src="https://github.com/user-attachments/assets/706699bb-b5b6-4b7c-9602-d191cb3c55d8" />
 <img width="144" height="144" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/6ac1add1-e4f1-45c5-825f-94248c3d5c1d" />
+<img width="204" height="204" alt="lfs250-kubernetes-and-cloud-native-essentials (1)" src="https://github.com/user-attachments/assets/52ff2872-8de4-40bc-9f99-47fd1b3ec48a" />
+
 
 - Google Cybersecurity Professional Certificate
 - Power Learn Project : Software Development & MERN Full Stack Bootcamp
