@@ -45,6 +45,7 @@ https://github.com/Viossixth/AWS-re-start/tree/main/Project
 <img width="120" height="120" alt="aws-re-start-graduate" src="https://github.com/user-attachments/assets/706699bb-b5b6-4b7c-9602-d191cb3c55d8" />
 <img width="144" height="144" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/6ac1add1-e4f1-45c5-825f-94248c3d5c1d" />
 <img width="204" height="204" alt="lfs250-kubernetes-and-cloud-native-essentials (1)" src="https://github.com/user-attachments/assets/52ff2872-8de4-40bc-9f99-47fd1b3ec48a" />
+<img width="150" height="150" alt="microsoft-certified-fundamentals-badge" src="https://github.com/user-attachments/assets/9a6237f7-99c9-4e97-8618-743268e7fb97" />
 
 
 - Google Cybersecurity Professional Certificate
@@ -53,12 +54,15 @@ https://github.com/Viossixth/AWS-re-start/tree/main/Project
 - SANCS26 Certificate of Participation
 - LFS158 – Introduction to Kubernetes
 - LFS250 – Kubernetes and Cloud Native Essentials
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 
 **Future Plans**
   
 - AWS Certified Solutions Architect - Associate
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Kubernetes and Cloud Native
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Kubernetes and Cloud Native Associate
+- Microsoft GitHub Foundations
 
 
 ## Let's Connect
